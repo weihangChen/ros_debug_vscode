@@ -1,8 +1,8 @@
 # ros_debug_vscode
 
 ### Goal
-The goal for this project is to demonstrate the debugging ROS node implementation using VSCode, but of course the underlying compiler is g++ and debuger is C++ debugger, the VSCode is
-IDE invoking these underlying tools.
+The goal for this project is to demonstrate the debugging ROS node implementation using VSCode, but of course the underlying compiler is g++ and debuger is C++ debugger, the VSCode is IDE invoking these underlying tools. My [blog post](https://medium.com/@weihang.che/ros-node-debugging-b76fc38ba70b) contains a bit more info.
+
 
 ### Project Content
 this project contains project structure followed by the [catkin workspace creation](http://wiki.ros.org/ROS/Tutorials/catkin/CreatingPackage)
