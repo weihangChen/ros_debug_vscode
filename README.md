@@ -9,7 +9,8 @@ this project contains project structure followed by the [catkin workspace creati
 and it contains impelmentation for [talker and listener](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29).
 
 ## How to run
-1. run "talker" as rosnode
-2. find out the process id of the talker process
-3. modify the ".vscode/launch.json", by replacing "25159" with the id obtained from previous step
-4. set some break points in the "src/talker.cpp", start debugger from vscode and be happy
+1. remove the "devel" and "build" folders, rebuild using "catkin_make -DCMAKE_BUILD_TYPE=Debug"
+2. run "talker" as rosnode
+3. find out the process id of the talker process
+4. modify the ".vscode/launch.json", by replacing "25159" with the id obtained from previous step
+5. set some break points in the "src/talker.cpp", start debugger from vscode and be happy
