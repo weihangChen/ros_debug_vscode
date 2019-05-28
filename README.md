@@ -17,7 +17,7 @@ and it contains impelmentation for [talker and listener](http://wiki.ros.org/ROS
 
 ## Additional notes
 
-### Catkin build command
+### Catkin build -DCMAKE_BUILD_TYPE equivalent command
 When you use `catkin build` instead of `catkin make` you can specify the build type by using the `catkin config --cmake-args -DCMAKE_BUILD_TYPE=Debug` command.
 
 ### How to use in a singularity image 
