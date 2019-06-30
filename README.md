@@ -14,3 +14,11 @@ and it contains impelmentation for [talker and listener](http://wiki.ros.org/ROS
 3. find out the process id of the talker process
 4. modify the ".vscode/launch.json", by replacing "25159" with the id obtained from previous step
 5. set some break points in the "src/talker.cpp", start debugger from vscode and be happy
+
+## Troubleshooting
+
+### Catkin build -DCMAKE_BUILD_TYPE equivalent command
+When you use `catkin build` instead of `catkin make` you can specify the build type by using the `catkin config --cmake-args -DCMAKE_BUILD_TYPE=Debug` command.
+
+### How to use in a singularity image 
+When you want to debug a ROS package that was built inside a singularity container, you have to make sure that the working directory while executing the `build` command and the working directory you opened inside *vscode* to debug are equal. This is because, in a singularity image, folders on the `home` and `root` folder can be accessed both by their absolute and relative paths. This can lead to path inconsistencies between the build package and the package scripts you are debugging.
