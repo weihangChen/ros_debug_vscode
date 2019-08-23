@@ -1,4 +1,4 @@
 # Files to ignore
+.vscode/settings.json
 
 # Folders to ignore
-.vscode/
