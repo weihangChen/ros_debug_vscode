@@ -15,7 +15,7 @@ This project contains an example ROS project catkin_ws [catkin workspace](http:/
 4. Modify the ".vscode/launch.json", by replacing "25159" with the id obtained from the previous step.
 5. Set some breakpoints in the "src/talker.cpp", start debugger from vscode and be happy
 
-### Python debugging steos
+### Python debugging steps
 
 #### How to run
 1. Make sure the [vscode-python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) is installed.
