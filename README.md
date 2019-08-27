@@ -18,8 +18,8 @@ This project contains an example ROS project catkin_ws [catkin workspace](http:/
 ### Python debugging steos
 
 #### How to run
-1.  Make sure the [vscode-python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) is installed.
-2. 
+1. Make sure the [vscode-python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) is installed.
+2. Add the followin code snippet directly after your python includes.
 
 ```
 #################################################
