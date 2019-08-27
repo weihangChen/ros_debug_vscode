@@ -1,0 +1,11 @@
+beginner_tutorials
+/home/ricks/Desktop/catkin_ws/devel/.private/beginner_tutorials/cmake.lock /home/ricks/Desktop/catkin_ws/devel/./cmake.lock
+/home/ricks/Desktop/catkin_ws/devel/.private/beginner_tutorials/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake /home/ricks/Desktop/catkin_ws/devel/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/ricks/Desktop/catkin_ws/devel/.private/beginner_tutorials/share/beginner_tutorials/cmake/beginner_tutorials-msg-paths.cmake /home/ricks/Desktop/catkin_ws/devel/share/beginner_tutorials/cmake/beginner_tutorials-msg-paths.cmake
+/home/ricks/Desktop/catkin_ws/devel/.private/beginner_tutorials/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake /home/ricks/Desktop/catkin_ws/devel/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/ricks/Desktop/catkin_ws/devel/.private/beginner_tutorials/share/beginner_tutorials/cmake/beginner_tutorials-msg-extras.cmake /home/ricks/Desktop/catkin_ws/devel/share/beginner_tutorials/cmake/beginner_tutorials-msg-extras.cmake
+/home/ricks/Desktop/catkin_ws/devel/.private/beginner_tutorials/share/roseus/ros/beginner_tutorials/manifest.l /home/ricks/Desktop/catkin_ws/devel/share/roseus/ros/beginner_tutorials/manifest.l
+/home/ricks/Desktop/catkin_ws/devel/.private/beginner_tutorials/lib/beginner_tutorials/listener /home/ricks/Desktop/catkin_ws/devel/lib/beginner_tutorials/listener
+/home/ricks/Desktop/catkin_ws/devel/.private/beginner_tutorials/lib/beginner_tutorials/talker /home/ricks/Desktop/catkin_ws/devel/lib/beginner_tutorials/talker
+/home/ricks/Desktop/catkin_ws/devel/.private/beginner_tutorials/lib/python2.7/dist-packages/beginner_tutorials/__init__.py /home/ricks/Desktop/catkin_ws/devel/lib/python2.7/dist-packages/beginner_tutorials/__init__.py
+/home/ricks/Desktop/catkin_ws/devel/.private/beginner_tutorials/lib/pkgconfig/beginner_tutorials.pc /home/ricks/Desktop/catkin_ws/devel/lib/pkgconfig/beginner_tutorials.pc

@@ -4,3 +4,5 @@
 # Folders to ignore
 build/
 devel/
+logs/
+
