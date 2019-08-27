@@ -2,3 +2,5 @@
 .vscode/settings.json
 
 # Folders to ignore
+build/
+devel/
