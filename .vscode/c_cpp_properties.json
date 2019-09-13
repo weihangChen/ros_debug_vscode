@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/opt/ros/kinetic/include",
+                    "${workspaceFolder}/src/beginner_tutorials/include",
+                    "/usr/include",
+                    "${workspaceFolder}"
+                ]
+            },
+            "includePath": [
+                "/opt/ros/kinetic/include",
+                "${workspaceFolder}/src/beginner_tutorials/include",
+                "/usr/include",
+                "${workspaceFolder}"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
