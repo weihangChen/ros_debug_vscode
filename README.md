@@ -1,5 +1,5 @@
 # ros_debug_vscode
-:information_source: *UPDATE:* As of [31 aug 2019](https://discourse.ros.org/t/updating-the-vs-code-extension-for-ros-to-0-6-0/10508) the
+:information_source: **UPDATE:** As of [31 aug 2019](https://discourse.ros.org/t/updating-the-vs-code-extension-for-ros-to-0-6-0/10508) the
 debug functionalities described below are also included in the official ros [vscode extension](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros).
 
 ### Goal
