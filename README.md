@@ -1,6 +1,7 @@
 # ros_debug_vscode
-:star: **UPDATE:** As of [31 aug 2019](https://discourse.ros.org/t/updating-the-vs-code-extension-for-ros-to-0-6-0/10508) the
-debug functionalities described below are also included in the official ros [vscode extension](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros). A guide on how to use this extension and its ROS debug functionality can be found [here](https://discourse.ros.org/t/updating-the-vs-code-extension-for-ros-to-0-6-0/10508).
+:warning: **UPDATE:** As of [31 aug 2019](https://discourse.ros.org/t/updating-the-vs-code-extension-for-ros-to-0-6-0/10508) the
+debug functionalities described below are also included in the official ros [vscode extension](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros).
+A guide on how to use this extension and its ROS debug functionality can be found [here](https://discourse.ros.org/t/updating-the-vs-code-extension-for-ros-to-0-6-0/10508).
 
 ### Goal
 The goal for this project is to demonstrate the debugging ROS node implementation using VSCode, but of course, the underlying compiler is g++ and debugger is C++ debugger, the VSCode is IDE invoking these underlying tools. My [blog post](https://medium.com/@weihang.che/ros-node-debugging-b76fc38ba70b) contains a bit more info.
